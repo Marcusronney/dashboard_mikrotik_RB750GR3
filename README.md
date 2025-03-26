@@ -2,7 +2,7 @@
 Dashboard Grafana + Zabbix Router Mikrotik RB750GR3
 
 
-![Title](DASH_mkt.png.png)
+![Title](DASH_mkt.png)
 
 
 Datasource = Zabbix
