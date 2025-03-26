@@ -47,6 +47,8 @@ Problemas ativos ou resolvidos (ex: temperatura elevada)
 
 Histórico de incidentes monitorados
 
+Templates = https://www.zabbix.com/integrations/mikrotik
+
 
 ![Title](image.png)
 
